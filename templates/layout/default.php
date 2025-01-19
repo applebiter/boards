@@ -270,7 +270,7 @@ $page_title = $page_title ?? 'applebiter.com';
               <li><a href="/pages/privacy">Privacy</a></li>
               <li><a href="/pages/terms">Terms</a></li>
             </ul>
-            <p>Made by <a href="https://github.com/applebiter/boards">Richard Lucas</a>.</p>
+            <p>Made by <a href="https://github.com/applebiter/boards">applebiter</a>.</p>
             <p>Code released under the <a href="/LICENSE">MIT License</a>.</p>
 
           </div>
