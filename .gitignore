@@ -5,7 +5,10 @@
 /tags
 /composer.lock
 /phpunit.xml
+/phpunit.xml.dist
 /phpstan.neon
+/phpcs.xml
+/psalm.xml
 /tools
 /vendor
 /composer.phar
@@ -59,6 +62,7 @@ nbproject/*
 .history/
 # Built Visual Studio Code Extensions
 *.vsix
+/.editorconfig
 # Sass preprocessor
 .sass-cache/
 
