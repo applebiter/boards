@@ -243,7 +243,7 @@ $page_title = $page_title ?? 'applebiter.com';
             </li>
             <?php endif ?>
             <li class="nav-item">
-              <a target="_blank" rel="noopener" class="nav-link text-light" href="https://github.com/applebiter/" title="Go to this application's repo on Github"><i class="bi bi-github"></i><span class="d-lg-none ms-2">GitHub</span></a>
+              <a target="_blank" rel="noopener" class="nav-link text-light" href="https://github.com/applebiter/boards" title="Go to this application's repo on Github"><i class="bi bi-github"></i><span class="d-lg-none ms-2">GitHub</span></a>
             </li>
             <li class="nav-item">
               <?php if ($this->Identity->isLoggedIn()) : ?>
@@ -270,7 +270,7 @@ $page_title = $page_title ?? 'applebiter.com';
               <li><a href="/pages/privacy">Privacy</a></li>
               <li><a href="/pages/terms">Terms</a></li>
             </ul>
-            <p>Made by <a href="https://github.com/applebiter">Richard Lucas</a>.</p>
+            <p>Made by <a href="https://github.com/applebiter/boards">Richard Lucas</a>.</p>
             <p>Code released under the <a href="/LICENSE">MIT License</a>.</p>
 
           </div>
