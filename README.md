@@ -21,3 +21,35 @@ This is a simple, threaded message board system. Here are the features:
 - Every time a user logs in successfully, their failed login attempts are all deleted from the database. 
 
 - A subset of Markdown is available to the user for text formatting, including the ability to make text bold, italicized, or both. Links and embedded images are also possible, as well as numbered and ordered lists. Code can be shared inline or in monotype, preformatted blocks. Headings are available, of course.
+
+&nbsp;
+
+#### Screenshots
+
+Landing page example...
+
+![Landing Page](01_landing.png)
+
+&nbsp;
+
+The board view does not show the messages below top-level messages, for the sake of readability...
+
+![Board View](02_boardview.png)
+
+&nbsp;
+
+Reading a message...
+
+![Message View](03_messageview.png)
+
+&nbsp;
+
+A full view of the messages in the thread below each message body...
+
+![Message View](04_threadview.png)
+
+&nbsp;
+
+The input form.
+
+![Form View](05_formview.png)
